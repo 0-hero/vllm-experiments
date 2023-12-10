@@ -106,7 +106,8 @@ class ModelConfig:
             raise ValueError(
                 f"Unknown load format: {self.load_format}. Must be one of "
                 "'auto', 'pt', 'safetensors', 'npcache', or 'dummy'.")
-        if is_hip():
+        #if is_hip():
+        if False:
             if load_format in ["safetensors"]:
                 rocm_supported_load_format = [
                     f for f in supported_load_format
