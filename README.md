@@ -72,6 +72,8 @@ Install vLLM with pip or [from source](https://vllm.readthedocs.io/en/latest/get
 pip install vllm
 ```
 
+Port from [vllm-roc](https://github.com/EmbeddedLLM/vllm-rocm/tree/mixtral8x7b)
+
 ## Getting Started
 
 Visit our [documentation](https://vllm.readthedocs.io/en/latest/) to get started.
