@@ -16,7 +16,7 @@ Easy, fast, and cheap LLM serving for everyone
 
 ---
 
-## Official [VLLM](https://github.com/vllm-project/vllm/tree/main) Implementation is available
+## Official [VLLM](https://github.com/vllm-project/vllm/tree/main) Implementation is available for mixtral. This version supports the DiscoLM models
 
 *Latest News* 🔥
 - [2023/12] Added ROCm support to vLLM.
